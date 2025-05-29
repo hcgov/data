@@ -1,0 +1,47 @@
+ [ 
+  {
+    "name": "Hack Club UwU Party v. Ryan, Lucas",
+    "status": "Verdict",
+    "type": "Criminal",
+    "verdict": "The case is dismissed without prejudice. The court invites any further filings once legally enforceable statutes can be cited.",
+    "date": "May 18th, 2025",
+    "court": "Supreme Court",
+    "id": "202505:2"
+  },
+  {
+    "name": "L87 v. QuizzityMC",
+    "status": "Verdict",
+    "type": "Criminal",
+    "verdict": "[The court] finds in the defendant's favor... Case dissmised with prejudice (this case cannot be refiled for the reasons of this suit, unless the defendant moves foward with the threats or makes further threats)",
+    "date": "May 13th, 2025",
+    "court": "Supreme Court",
+    "id": "202505:1"
+  },
+  {
+    "name": "Ayo v. Thomas",
+    "status": "Verdict",
+    "type": "Civil",
+    "verdict": "This court is of the opinion that Thomas should have changed his pfp if he did state he would at 100. However this court has no jurisdiction here. Motion for dismissal accepted",
+    "date": "April 24th, 2025",
+    "court": "Supreme Court",
+    "id": "202504:3"
+  },
+ {
+    "name": "HCRP v. astra.celestine, L87",
+    "status": "Verdict",
+    "type": "Criminal",
+    "verdict": "Case dismissed because you can't sue for these kinds of crimes",
+    "date": "April 6th, 2025",
+    "court": "Supreme Court",
+    "id": "202504:2"
+  },
+  {
+    "name": "afonso v. Game-chan",
+    "status": "Verdict",
+    "type": "Criminal",
+    "verdict": "Case dismissed. [The court does not] see anything wrong here, it was clearly a joke and [the court is] not punishing someone for making a joke",
+    "date": "April 6th, 2025",
+    "court": "Supreme Court",
+    "id": "202504:1"
+  }
+ ]
