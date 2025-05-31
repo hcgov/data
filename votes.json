@@ -1,5 +1,19 @@
 [
 {
+    "name": "Metric Act Ammendment",
+    "status": "Voting",
+    "type": "Legislative Act",
+    "date": "June 2, 2025",
+    "assembly": 2
+  },
+{
+    "name": "Metric Act",
+    "status": "Nullified",
+    "type": "Legislative Act",
+    "date": "May 31, 2025",
+    "assembly": 2
+  },
+{
     "name": "Right to Cognitive Privacy Act",
     "status": "Voting",
     "type": "Legislative Act",
