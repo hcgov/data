@@ -1,5 +1,12 @@
 [
 {
+    "name": "Name of the Nation Act",
+    "status": "Voting",
+    "type": "Legislative Act",
+    "date": "June 3, 2025",
+    "assembly": 2
+  },
+{
     "name": "Units for All Act",
     "status": "Voting",
     "type": "Legislative Act",
