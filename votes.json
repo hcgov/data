@@ -22,14 +22,14 @@
   },
 {
     "name": "Webster Act",
-    "status": "Voting",
+    "status": "Passed",
     "type": "Legislative Act",
     "date": "May 31, 2025",
     "assembly": 2
   },
 {
     "name": "Imperial Act",
-    "status": "Voting",
+    "status": "Rejected",
     "type": "Legislative Act",
     "date": "May 31, 2025",
     "assembly": 2
