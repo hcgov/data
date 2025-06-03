@@ -1,7 +1,14 @@
 [
 {
-    "name": "Ban d shifter act ",
+    "name": "Better Name Act",
     "status": "Voting",
+    "type": "Legislative Act",
+    "date": "June 4, 2025",
+    "assembly": 2
+  },
+{
+    "name": "Ban d shifter act ",
+    "status": "Rejected",
     "type": "Legislative Act",
     "date": "June 3, 2025",
     "assembly": 2
