@@ -1,5 +1,14 @@
  [ 
   {
+    "name": "United Republic of Hack Club v. DOSEM",
+    "status": "Initiation",
+    "type": "Criminal",
+    "verdict": null,
+    "date": "June 2nd, 2025",
+    "court": "Supreme Court",
+    "id": "202506:01"
+  },
+  {
     "name": "Hack Club UwU Party v. Ryan, Lucas",
     "status": "Verdict",
     "type": "Criminal",
