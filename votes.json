@@ -1,9 +1,16 @@
 [
 {
+    "name": "Ban d shifter act ",
+    "status": "Voting",
+    "type": "Legislative Act",
+    "date": "June 3, 2025",
+    "assembly": 2
+  },
+{
     "name": "Name of the Nation Act",
     "status": "Rejected",
     "type": "Legislative Act",
-    "date": "June 3, 2025",
+    "date": "June 2, 2025",
     "assembly": 2
   },
 {
