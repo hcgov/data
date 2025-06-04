@@ -1,5 +1,12 @@
 [
 {
+    "name": "Best name act",
+    "status": "Voting",
+    "type": "Legislative Act",
+    "date": "June 6, 2025",
+    "assembly": 2
+  },
+{
     "name": "La Chambre de Lenny Act",
     "status": "Voting",
     "type": "Legislative Act",
