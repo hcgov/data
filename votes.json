@@ -1,5 +1,12 @@
 [
 {
+    "name": "Republic Amendment",
+    "status": "Voting",
+    "type": "Constitutional Amendment",
+    "date": "June 6, 2025",
+    "assembly": 2
+  },
+{
     "name": "Best name act",
     "status": "Voting",
     "type": "Legislative Act",
@@ -15,14 +22,14 @@
   },
 {
     "name": "Web Accountability Act Ammendment",
-    "status": "Voting",
+    "status": "Passed",
     "type": "Legislative Amendment",
     "date": "June 5, 2025",
     "assembly": 2
   },
 {
     "name": "Revised Name of the Nation Act",
-    "status": "Voting",
+    "status": "Rejected",
     "type": "Legislative Act",
     "date": "June 5, 2025",
     "assembly": 2
