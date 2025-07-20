@@ -1,4 +1,58 @@
- [ 
+[
+  {
+    "name": "In Re Kody",
+    "status": "Initiation",
+    "type": "Civil",
+    "verdict": "The Writ of Restoration was granted",
+    "date": "July 19th, 2025",
+    "court": "Supreme Court",
+    "id": "202507:06"
+  },
+  {
+    "name": "Emma v. L87",
+    "status": "Initiation",
+    "type": "Civil",
+    "verdict": "Dismissed excluditur cum praeiudicio",
+    "date": "July 18th, 2025",
+    "court": "Supreme Court",
+    "id": "202507:05"
+  },
+  {
+    "name": "United Republic of Hack Club v. Souptik Samanta",
+    "status": "Initiation",
+    "type": "Criminal",
+    "verdict": null,
+    "date": "July 18th, 2025",
+    "court": "Supreme Court",
+    "id": "202507:04"
+  },
+  {
+    "name": "United Republic of Hack Club v. Manan Sharma",
+    "status": "Initiation",
+    "type": "Criminal",
+    "verdict": null,
+    "date": "July 18th, 2025",
+    "court": "Supreme Court",
+    "id": "202507:03"
+  },
+  {
+    "name": "Krish v. United Republic of Hack Club",
+    "status": "Initiation",
+    "type": "Civil",
+    "verdict": null,
+    "date": "July 7th, 2025",
+    "court": "Supreme Court",
+    "id": "202507:02"
+  },
+  {
+    "name": "United Republic of Hack Club v. manni",
+    "status": "Initiation",
+    "type": "Criminal",
+    "verdict": null,
+    "date": "July 4th, 2025",
+    "court": "Supreme Court",
+    "id": "202507:01"
+  },
   {
     "name": "United Republic of Hack Club v. Astra.Celestine",
     "status": "Initiation",
@@ -44,7 +98,7 @@
     "court": "Supreme Court",
     "id": "202504:3"
   },
- {
+  {
     "name": "HCRP v. astra.celestine, L87",
     "status": "Verdict",
     "type": "Criminal",
@@ -62,4 +116,4 @@
     "court": "Supreme Court",
     "id": "202504:1"
   }
- ]
+]
